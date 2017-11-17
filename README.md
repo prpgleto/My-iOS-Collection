@@ -123,6 +123,32 @@ A collection of usefull iOS libraries that i came across while developing iOS Ap
 [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel?ref=ioscookies.com)
 >[EXPERIMENTAL] Graceful morphing effects for UILabel written in Swift.
 
+[Siren](https://github.com/ArtSabintsev/Siren)
+>Notify users when a new version of your app is available and prompt them to upgrade. [http://sabintsev.com/Siren](http://sabintsev.com/Siren)
+
+[Money](https://github.com/danthorpe/Money)
+>Swift value types for working with money & currency
+
+[Sensitive](https://github.com/igormatyushkin014/Sensitive)
+>Special way to work with gestures in iOS.
+
+[swift-deep-linking](https://github.com/ijoshsmith/swift-deep-linking)
+>A simple way to consume custom deep link URLs in a Swift app
+
+[AlertTransition](https://github.com/loopeer/AlertTransition)
+>AlertTransition is a extensible library for making view controller transitions, especially for alert transitions.
+
+[SamuraiTransition](https://github.com/hachinobu/SamuraiTransition)
+>SamuraiTransition is an open source Swift based library providing a collection of ViewController transitions featuring a number of neat “cutting” animations.
+
+[SimpleImageViewer](https://github.com/aFrogleap/SimpleImageViewer)
+>A snappy image viewer with zoom and interactive dismissal transition. [https://www.afrogleap.com](https://www.afrogleap.com)
+
+[SKPhotoBrowser](https://github.com/suzuki-0000/SKPhotoBrowser)
+>Simple PhotoBrowser/Viewer inspired by facebook, twitter photo browsers written by swift
+
+
+
 ## Usefull Websites to discover new Libraries
 
 
