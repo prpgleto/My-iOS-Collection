@@ -3,7 +3,9 @@ A collection of usefull iOS libraries that i came across while developing iOS Ap
 
 
 
-##All
+## All
+ 
+ 
  [Fusuma](https://github.com/prpgleto/Fusuma)
 >Instagram-like photo browser and a camera feature with a few line of code in Swift.
 
@@ -121,7 +123,8 @@ A collection of usefull iOS libraries that i came across while developing iOS Ap
 [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel?ref=ioscookies.com)
 >[EXPERIMENTAL] Graceful morphing effects for UILabel written in Swift.
 
-##Usefull Websites to discover new Libraries
+## Usefull Websites to discover new Libraries
+
 
 [iOS Cookies](http://www.ioscookies.com) A hand curated collection of iOS libraries written in Swift
 
